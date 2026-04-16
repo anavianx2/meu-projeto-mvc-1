@@ -37,3 +37,15 @@ Foi aplicada melhoria de usabilidade com:
 - Botões com cores contrastantes (fundo escuro e texto claro)
 - Nomes claros e intuitivos nos botões
 - Estrutura simples para facilitar navegação
+---
+
+## Progresso do Desenvolvimento
+
+### Status das Rotas
+Quando o usuário clica no botão principal, o sistema executa uma função JavaScript que simula a comunicação com o Controller e retorna uma resposta de sucesso.
+
+### Feedback ao Usuário
+O sistema exibe um alerta informando que o produto foi adicionado e também altera a cor do botão, mostrando visualmente que a ação foi concluída.
+
+### Dificuldades Técnicas
+Uma dificuldade encontrada foi separar a lógica de interação (JavaScript) da estrutura da página (HTML), mantendo a organização do padrão MVC.
